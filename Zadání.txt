@@ -1,0 +1,4 @@
+Vytvořte databázový systém, který eviduje data z prostředí Nemocnice.
+Měl by zahrnovat informace o lécích, lůžkách, materiálu, stravě, zásobách a spotřebě.
+Nastavení správnosti dat podle realného světa (nastavit integrity).
+ 
