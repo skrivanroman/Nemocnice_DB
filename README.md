@@ -1,6 +1,6 @@
 # Nemocnice_DB
 
-##Zadání:
+## Zadání:
 * Léky
 * Lůžka
 * Materiál
@@ -8,7 +8,7 @@
 * Zásoby
 * Spotřeba
  
-##Odevzdání:
+## Odevzdání:
 * Slovní zadání cílového stavu navrhovaného MR
 * Slovní popis funkcionality MR
 * Excelovská tabulka atributů včetně:
