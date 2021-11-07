@@ -2,12 +2,12 @@
 
 ## Zadání:
 
--   Léky
--   Lůžka
--   Materiál
--   Strava
--   Zásoby
--   Spotřeba
+- Léky
+- Lůžka
+- Materiál
+- Strava
+- Zásoby
+- Spotřeba
 
 ## Odevzdání:
 
@@ -23,5 +23,10 @@
 
 ## Termíny:
 
--   Kontrolnní dny: 18.10,25.10,1.11,8.11.2021
--   Odevzdání: 8.11.2021, Disk O
+- Kontrolnní dny: 18.10,25.10,1.11,8.11.2021
+- Odevzdání: 8.11.2021, Disk O
+
+## Diagram
+
+![diagram-1](./diagram-1.PNG)
+![diagram-2](./diagram-2.PNG)
